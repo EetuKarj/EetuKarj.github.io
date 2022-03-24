@@ -1,0 +1,32 @@
+*{
+    background-color: ivory;
+    color: gray;
+}
+
+
+.otsikko{
+    font-size: 20px;
+}
+.about-me{
+    font-size: 16px;
+    color: darkblue;
+    background-color: lavender;
+
+}
+.first-list{
+    list-style-type: lower-alpha;
+}
+.second-list{
+    list-style-type: square;
+}
+.list-spec{
+    border-style: dotted;
+    border-radius: 2px;
+    width: 200px;
+    height: 200px;
+    
+}
+
+
+
+
